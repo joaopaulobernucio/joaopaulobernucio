@@ -29,6 +29,7 @@
   <img align="center" alt="Joao-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
+
  ![Snake animation](https://github.com/JoaoPauloBR/Joao-PauloBR/blob/output/github-contribution-grid-snake.svg)                   
 
 
