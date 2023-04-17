@@ -1,5 +1,6 @@
 ## 👾Sobre mim
-Muito prazer, me chamo João Paulo. Estou cursando o segundo semestre de Desenvolvimento de Software Multiplataforma (para encurtar, DSM) na Fatec Itapira -Dr. Ogari Castro Pacheco  
+Durante a infância e até a adolescência, eu fiquei muito entretido na tecnologia. Desde pequeno eu ficava entretido, pensando, em como funcionava o computador. Não fazia ideia de como umas peças encaixadas numa placa poderia fazer o que o computador era capaz de fazer (até hoje não sei tudo que ele é capaz😂)Até pouco tempo atrás, meados de 2022, eu sequer sabia da existência do mundo da programação. Comecei a cursar desenvolvimento sem saber nada à cerca da área. Com o passar do tempo, o curso foi me mostrando, aos poucos, a lógica e as linguagens de programação.   
+Estou cursando o segundo semestre de Desenvolvimento de Software Multiplataforma (para encurtar, DSM) na Fatec Itapira - "Dr. Ogari Castro Pacheco". 
 <div align="center">
   <picture>
     <source 
