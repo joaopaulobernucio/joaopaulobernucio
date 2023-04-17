@@ -1,4 +1,8 @@
-
+<div>
+  <h2 align="in-line"> 
+    Sobre mim
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-souza-bernucio-aaa308254/"></a>
+  </h2>
 <div align="center">
   <picture>
     <source 
@@ -7,7 +11,7 @@
     <source
     srcset="https://github-readme-stats.vercel.app/api?username=Joao-PauloBR&show_icons=true&theme=buefy&hide=contribs&count_private=true&locale=pt-br"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joao-PauloBR" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joao-PauloBR" />
   </picture>
   <picture>
     <source 
@@ -16,7 +20,7 @@
     <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-PauloBR&layout=compact&theme=buefy&locale=pt-br"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-PauloBR" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-PauloBR" />
   </picture>
 </div>
 
