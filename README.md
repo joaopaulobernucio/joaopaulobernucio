@@ -1,8 +1,5 @@
-<div>
-  <h2 align="in-line"> 
-    Sobre mim
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-souza-bernucio-aaa308254/"></a>
-  </h2>
+## 👾Sobre mim
+Muito prazer, me chamo João Paulo. Estou cursando o segundo semestre de Desenvolvimento de Software Multiplataforma (para encurtar, DSM) na Fatec Itapira -Dr. Ogari Castro Pacheco  
 <div align="center">
   <picture>
     <source 
