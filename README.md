@@ -27,7 +27,7 @@ Durante a infância e até a adolescência, eu ficava entretido, pensando, em co
   <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 <br>
-<div align="left">
+<div align="center">
   <picture>
     <source 
     srcset="https://github-readme-stats.vercel.app/api?username=Joao-PauloBR&show_icons=true&theme=midnight-purple&hide=contribs&count_private=true&locale=pt-br"
