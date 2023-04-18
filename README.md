@@ -8,12 +8,12 @@ Durante a infância e até a adolescência, eu ficava entretido, pensando, em co
 
 ### 🎯 Objetivos
 - 📚 Aprender a base da programação. Entender a lógica por trás das linguagens, a estruturação do código, UI Design e as boas práticas.
-- 🤖 Sou aluno do André, criador da [Origamid](https://www.origamid.com/);
+- 😃 Estou tendo aulas com o melhor Desenvolvedor FrontEnd, o André da [ORIGAMID](https://www.origamid.com/);
 - 🔎 Em busca de especialização na área de desenvolvimento de software, tanto no Front quanto no Backend.
 - 💼 Estar capacitado o suficiente para entrar numa vaga de estágio para poder adquirir experiência no mercado profissional;
 - 💡  Poder contribuir com projetos e ideias nessa grande comunidade do Github.
 
-### Linguagens e ferramentas concluídas ✔️
+### Linguagens e ferramentas vistas na faculdade ✔️
 <div>
   <img align="center" alt="Joao-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Joao-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -21,7 +21,7 @@ Durante a infância e até a adolescência, eu ficava entretido, pensando, em co
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Joao-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   
-### Linguagens e ferramentas em formação 📖
+### Linguagens e ferramentas em aprendizado 📖
   <img align="center" alt="Joao-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Joao-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
