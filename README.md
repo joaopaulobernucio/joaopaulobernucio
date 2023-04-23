@@ -1,6 +1,6 @@
 ## 🗿 Minha História
 
-> Durante a infância e até a adolescência, eu ficava entretido, pensando, em como funcionava o computador. Não fazia ideia que tudo, no mundo digital, é feito através de códigos binários, a linguagem da computação. Até pouco tempo atrás, meados de 2022, eu sequer sabia da existência do mundo da programação. Comecei a cursar desenvolvimento sem saber nada à cerca da área.
+Durante a infância e até a adolescência, eu ficava entretido, pensando, em como funcionava o computador. Não fazia ideia que tudo, no mundo digital, é feito através de códigos binários, a linguagem da computação. Até pouco tempo atrás, meados de 2022, eu sequer sabia da existência do mundo da programação. Comecei a cursar desenvolvimento sem saber nada à cerca da área.
 
 ⏳ Com o passar do tempo , o curso foi me mostrando, aos poucos, a lógica e as linguagens de programação. Adquiri gosto pelo estudo. É aqui que começa a minha história no mundo da programação💻.
  
