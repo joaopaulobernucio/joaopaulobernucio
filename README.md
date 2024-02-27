@@ -1,5 +1,10 @@
 ## 🚀 Desvendando a Programação: Minha Jornada de Aprendizagem
 
+<a href = "mailto:joao.bernucio@skiff.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joaobernucio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+      <img src="https://user-images.githubusercontent.com/74038190/216655835-a5f1d93e-f8b1-44da-90ec-e52e833824f6.gif" width="160"/> -->
+
 🌟 Desde a infância, os computadores me fascinavam. Observava a tela com admiração, intrigado com o mundo digital que se abria diante de mim. Mas foi apenas em meados de 2022 que descobri a chave para esse universo: a programação.
 
 🌐 Comecei a cursar Desenvolvimento de Software sem qualquer conhecimento prévio, mas com uma mente aberta e um desejo ardente de aprender. A cada aula, a lógica da programação se desvendava, revelando um mundo de possibilidades. A paixão pelo estudo se acendeu e a jornada de autodescoberta começou.
