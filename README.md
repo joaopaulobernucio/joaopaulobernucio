@@ -1,32 +1,33 @@
-## 🗿 Minha História
+## 🚀 Desvendando a Programação: Minha Jornada de Aprendizagem
 
-Durante a infância e até a adolescência, eu ficava entretido, pensando, em como funcionava o computador. Não fazia ideia que tudo, no mundo digital, é feito através de códigos binários, a linguagem da computação. Até pouco tempo atrás, meados de 2022, eu sequer sabia da existência do mundo da programação. Comecei a cursar desenvolvimento sem saber nada à cerca da área.
+🌟 Desde a infância, os computadores me fascinavam. Observava a tela com admiração, intrigado com o mundo digital que se abria diante de mim. Mas foi apenas em meados de 2022 que descobri a chave para esse universo: a programação.
 
-⏳ Com o passar do tempo , o curso foi me mostrando, aos poucos, a lógica e as linguagens de programação. Adquiri gosto pelo estudo. É aqui que começa a minha história no mundo da programação💻.
- 
-🎓 Estou, atualmente, cursando o segundo semestre de DSM ([Desenvolvimento de Software Multiplataforma](https://fatecitapira.edu.br/dsm.html)) na [Fatec Itapira](https://fatecitapira.edu.br/index.html).
+🌐 Comecei a cursar Desenvolvimento de Software sem qualquer conhecimento prévio, mas com uma mente aberta e um desejo ardente de aprender. A cada aula, a lógica da programação se desvendava, revelando um mundo de possibilidades. A paixão pelo estudo se acendeu e a jornada de autodescoberta começou.
+
+👉 Estou cursando o 4º semestre de DSM ([Desenvolvimento de Software Multiplataforma](https://fatecitapira.edu.br/dsm.html)) na [Fatec Itapira](https://fatecitapira.edu.br/index.html). Ao longo do caminho, explorei diferentes áreas da programação, desde front-end até redes e banco de dados, construindo uma base sólida em lógica de programação.
+
+📖 Minha busca por conhecimento vai além da sala de aula. Participo de um curso especializado em Front-End na plataforma Origamid, aprofundando meus conhecimentos na área. Na Udemy, exploro diversos cursos para expandir minhas habilidades. E os vídeos instrutivos do renomado Gustavo Guanabara enriquecem ainda mais meu repertório de programação.
 
 ### 🎯 Objetivos
-- 📚 Aprender a base da programação. Entender a lógica por trás das linguagens, a estruturação do código, UI Design e as boas práticas.
-- 😃 Estou tendo aulas com o melhor Desenvolvedor FrontEnd, o André da [ORIGAMID](https://www.origamid.com/);
-- 🔎 Em busca de especialização na área de desenvolvimento de software, tanto no Front quanto no Backend.
-- 💼 Estar capacitado o suficiente para entrar numa vaga de estágio para poder adquirir experiência no mercado profissional;
-- 💡  Poder contribuir com projetos e ideias nessa grande comunidade do Github.
+- 💻 **Aprofundar a base da programação:** Dominar a lógica por trás das linguagens, a estruturação do código, UI Design e as boas práticas.
+- 🔎 **Especialização:** Encontrar meu nicho de atuação, seja no Front-end ou no Back-end.
+- 💼 **Experiência profissional:** Conseguir uma vaga de estágio para aplicar meus conhecimentos na prática e contribuir com projetos reais.
+- 🤝 **Contribuir na comunidade:** Compartilhar minhas habilidades e ideias na comunidade do Github.
 
-### Linguagens e ferramentas vistas na faculdade ✔️
+### 🏆 Competências
 <div>
-  <img align="center" alt="Joao-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Joao-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Joao-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <p><b>Ferramentas:</b><img align="center" alt="Joao-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Joao-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"></p>
+ <p><b>Linguagens de Programação:</b>
+  <img align="center" alt="Joao-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Joao-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Joao-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Joao-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Joao-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></p>
   
-### Linguagens e ferramentas em aprendizado 📖
-  <img align="center" alt="Joao-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Joao-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 <br>
+
 <div align="center">
   <picture>
     <source 
