@@ -35,20 +35,20 @@
 <div align="center">
   <picture>
     <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Joao-PauloBR&show_icons=true&theme=midnight-purple&hide=contribs&count_private=true&locale=pt-br"
-    media="(prefers-color-scheme: dark)"/>
-    <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Joao-PauloBR&show_icons=true&theme=buefy&hide=contribs&count_private=true&locale=pt-br"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Joao-PauloBR" />
-  </picture>
-  <picture>
-    <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-PauloBR&layout=compact&theme=midnight-purple&locale=pt-br"
     media="(prefers-color-scheme: dark)" />
     <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-PauloBR&layout=compact&theme=buefy&locale=pt-br"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-PauloBR"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-PauloBR"/>
+  </picture>
+  <picture>
+    <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=Joao-PauloBR&show_icons=true&theme=midnight-purple&hide=contribs&count_private=true&locale=pt-br"
+    media="(prefers-color-scheme: dark)"/>
+    <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Joao-PauloBR&show_icons=true&theme=buefy&hide=contribs&count_private=true&locale=pt-br"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-PauloBR" />
   </picture>
 </div>
