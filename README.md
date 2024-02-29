@@ -31,7 +31,8 @@
   <img alt="Joao-Python" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img alt="Joao-C" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
-<br>
+
+##
 
 <div align="center">
   <picture>
