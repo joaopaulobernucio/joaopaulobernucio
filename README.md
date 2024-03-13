@@ -1,4 +1,4 @@
-## 🚀 Desvendando a Programação: Minha Jornada de Aprendizagem
+# 🚀 Trilhando o Caminho da Programação
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobernucio)
 [![Proton](https://img.shields.io/badge/Proton-7C5CFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:joaobernucio@proton.me)
@@ -16,6 +16,7 @@
 📖 Minha busca por conhecimento vai além da sala de aula. Participo de um curso especializado em Front-End na plataforma Origamid, aprofundando meus conhecimentos na área. Na Udemy, exploro diversos cursos para expandir minhas habilidades. E os vídeos instrutivos do renomado Gustavo Guanabara enriquecem ainda mais meu repertório de programação.
 
 ### 🎯 Objetivos
+
 - 💻 **Aprofundar a base da programação:** Dominar a lógica por trás das linguagens, a estruturação do código, UI Design e as boas práticas.
 - 🔎 **Especialização:** Encontrar meu nicho de atuação, seja no Front-end ou no Back-end.
 - 💼 **Experiência profissional:** Conseguir uma vaga de estágio para aplicar meus conhecimentos na prática e contribuir com projetos reais.
@@ -23,16 +24,14 @@
 
 ### 🏆 Competências
 
-
-<div style="display: inline_block">
-  <img alt="Joao-Figma" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img alt="Joao-Git" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img alt="Joao-JavaScript" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="Joao-Java" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img alt="Joao-PHP" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img alt="Joao-Python" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="Joao-C" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ##
 
