@@ -15,14 +15,14 @@
 
 📖 Minha busca por conhecimento vai além da sala de aula. Participo de um curso especializado em Front-End na plataforma Origamid, aprofundando meus conhecimentos na área. Na Udemy, exploro diversos cursos para expandir minhas habilidades. E os vídeos instrutivos do renomado Gustavo Guanabara enriquecem ainda mais meu repertório de programação.
 
-### 🎯 Objetivos
+## 🎯 Objetivos
 
 - 💻 **Aprofundar a base da programação:** Dominar a lógica por trás das linguagens, a estruturação do código, UI Design e as boas práticas.
 - 🔎 **Especialização:** Encontrar meu nicho de atuação, seja no Front-end ou no Back-end.
 - 💼 **Experiência profissional:** Conseguir uma vaga de estágio para aplicar meus conhecimentos na prática e contribuir com projetos reais.
 - 🤝 **Contribuir na comunidade:** Compartilhar minhas habilidades e ideias na comunidade do Github.
 
-### 🏆 Competências
+## 🏆 Competências
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
