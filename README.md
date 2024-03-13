@@ -1,7 +1,12 @@
 ## 🚀 Desvendando a Programação: Minha Jornada de Aprendizagem
 
-<a href = "mailto:joao.bernucio@skiff.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joaobernucio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/276796875800313857)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaobernucio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobernucio)
+[![Proton](https://img.shields.io/badge/Proton-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:joaobernucio@proton.me)
+
+
+
 <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
       <img src="https://user-images.githubusercontent.com/74038190/216655835-a5f1d93e-f8b1-44da-90ec-e52e833824f6.gif" width="160"/> -->
 
