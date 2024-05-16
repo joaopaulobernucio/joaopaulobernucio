@@ -11,7 +11,7 @@
 
 🌐 Comecei a cursar Desenvolvimento de Software sem qualquer conhecimento prévio, mas com uma mente aberta e um desejo ardente de aprender. A cada aula, a lógica da programação se desvendava, revelando um mundo de possibilidades. A paixão pelo estudo se acendeu e a jornada de autodescoberta começou.
 
-👉 Estou cursando o 4º semestre de [Desenvolvimento de Software](https://fatecitapira.edu.br/dsm.html) na [Fatec Itapira](https://fatecitapira.edu.br/index.html). Ao longo do caminho, explorei diferentes áreas da programação, desde front-end até redes e banco de dados, construindo uma base sólida em lógica de programação.
+👉 Estou cursando o 4º semestre de **Desenvolvimento de Software Multiplataforma** na [Fatec Itapira](https://www.cps.sp.gov.br/fatecs/fatec-itapira-ogari-de-castro-pacheco/). Ao longo do caminho, explorei diferentes áreas da programação, desde front-end até redes e banco de dados, construindo uma base sólida em lógica de programação.
 
 📖 Minha busca por conhecimento vai além da sala de aula. Participo de um curso especializado em Front-End na plataforma Origamid, aprofundando meus conhecimentos na área. Na Udemy, exploro diversos cursos para expandir minhas habilidades. E os vídeos instrutivos do renomado Gustavo Guanabara enriquecem ainda mais meu repertório de programação.
 
