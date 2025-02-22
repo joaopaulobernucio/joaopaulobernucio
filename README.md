@@ -4,7 +4,7 @@
 [![Proton](https://img.shields.io/badge/Proton-7C5CFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:joaobernucio@proton.me)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/276796875800313857)
 
-Sou João Paulo Souza Bernucio, aspirante ao cargo de Desenvolvedor Full Stack Júnior, apaixonado por transformar ideias em soluções digitais inovadoras. Acredito que cada projeto é uma oportunidade de aprimorar a tecnologia e a forma como interagimos com ela, sempre buscando unir criatividade e funcionalidade.
+Sou aspirante ao cargo de Desenvolvedor Full Stack Júnior, apaixonado por transformar ideias em soluções digitais inovadoras. Acredito que cada projeto é uma oportunidade de aprimorar a tecnologia e a forma como interagimos com ela, sempre buscando unir criatividade e funcionalidade.
 
 Aqui no GitHub, cada repositório representa um capítulo da minha jornada, marcada por desafios superados, aprendizado constante e a aplicação prática de novos conceitos. Acredito no poder da colaboração e na troca de ideias para impulsionar a inovação e o crescimento profissional.
 
