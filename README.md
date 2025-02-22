@@ -1,26 +1,35 @@
-# 🚀 Trilhando o Caminho da Programação
+# Olá, seja bem-vindo ao meu perfil!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobernucio)
 [![Proton](https://img.shields.io/badge/Proton-7C5CFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:joaobernucio@proton.me)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/276796875800313857)
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-      <img src="https://user-images.githubusercontent.com/74038190/216655835-a5f1d93e-f8b1-44da-90ec-e52e833824f6.gif" width="160"/> -->
+Sou João Paulo Souza Bernucio, aspirante ao cargo de Desenvolvedor Full Stack Júnior, apaixonado por transformar ideias em soluções digitais inovadoras. Acredito que cada projeto é uma oportunidade de aprimorar a tecnologia e a forma como interagimos com ela, sempre buscando unir criatividade e funcionalidade.
 
-🌟 Desde a infância, os computadores me fascinavam. Observava a tela com admiração, intrigado com o mundo digital que se abria diante de mim. Mas foi apenas em meados de 2022 que descobri a chave para esse universo: a programação.
+Aqui no GitHub, cada repositório representa um capítulo da minha jornada, marcada por desafios superados, aprendizado constante e a aplicação prática de novos conceitos. Acredito no poder da colaboração e na troca de ideias para impulsionar a inovação e o crescimento profissional.
 
-🌐 Comecei a cursar Desenvolvimento de Software sem qualquer conhecimento prévio, mas com uma mente aberta e um desejo ardente de aprender. A cada aula, a lógica da programação se desvendava, revelando um mundo de possibilidades. A paixão pelo estudo se acendeu e a jornada de autodescoberta começou.
+Atualmente, estou no 6º semestre de Desenvolvimento de Software Multiplataforma na Fatec Itapira – Dr. Ogari de Castro Pacheco. Os projetos acadêmicos que desenvolvo refletem meu compromisso em aplicar a teoria na prática, explorando as mais diversas tecnologias para criar soluções eficientes e intuitivas.
 
-👉 Estou cursando o 4º semestre de **Desenvolvimento de Software Multiplataforma** na [Fatec Itapira](https://www.cps.sp.gov.br/fatecs/fatec-itapira-ogari-de-castro-pacheco/). Ao longo do caminho, explorei diferentes áreas da programação, desde front-end até redes e banco de dados, construindo uma base sólida em lógica de programação.
+Os badges interativos no meu perfil mostram as linguagens e frameworks que venho estudando e utilizando. Sinta-se à vontade para explorar meus projetos, colaborar ou compartilhar sugestões — estou sempre aberto a novos desafios e aprendizados.
 
-📖 Minha busca por conhecimento vai além da sala de aula. Participo de um curso especializado em Front-End na plataforma Origamid, aprofundando meus conhecimentos na área. Na Udemy, exploro diversos cursos para expandir minhas habilidades. E os vídeos instrutivos do renomado Gustavo Guanabara enriquecem ainda mais meu repertório de programação.
+Obrigado pela visita e vamos transformar ideias em código juntos!
 
-## 🎯 Objetivos
 
-- 💻 **Aprofundar a base da programação:** Dominar a lógica por trás das linguagens, a estruturação do código, UI Design e as boas práticas.
-- 🔎 **Especialização:** Encontrar meu nicho de atuação, seja no Front-end ou no Back-end.
-- 💼 **Experiência profissional:** Conseguir uma vaga de estágio para aplicar meus conhecimentos na prática e contribuir com projetos reais.
-- 🤝 **Contribuir na comunidade:** Compartilhar minhas habilidades e ideias na comunidade do Github.
+
+## Habilidades
+
+- Engenharia de Software
+- Metodologias Ágeis (Scrum)
+- Desenvolvimento Full Stack (HTML, CSS, JavaScript, Bootstrap, PHP, Java, Python)
+- Versionamento de Código (Git, GitHub, GitLab)
+- Banco de Dados (SQL e NoSQL)
+- Raciocínio Lógico
+- Trabalho em Equipe e Colaboração
+- Comunicação Eficiente
+- Adaptabilidade
+- Aprendizado Rápido
+- Resolução de Problemas
+- Desenvolvimento Mobile (Dart, Flutter)
 
 ## 🏆 Competências
 
