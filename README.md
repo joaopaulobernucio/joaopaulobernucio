@@ -14,23 +14,6 @@ Os badges interativos no meu perfil mostram as linguagens e frameworks que venho
 
 Obrigado pela visita e vamos transformar ideias em código juntos!
 
-
-
-## Habilidades
-
-- Engenharia de Software
-- Metodologias Ágeis (Scrum)
-- Desenvolvimento Full Stack (HTML, CSS, JavaScript, Bootstrap, PHP, Java, Python)
-- Versionamento de Código (Git, GitHub, GitLab)
-- Banco de Dados (SQL e NoSQL)
-- Raciocínio Lógico
-- Trabalho em Equipe e Colaboração
-- Comunicação Eficiente
-- Adaptabilidade
-- Aprendizado Rápido
-- Resolução de Problemas
-- Desenvolvimento Mobile (Dart, Flutter)
-
 ## 🏆 Competências
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
