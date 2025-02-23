@@ -1,4 +1,4 @@
-# 🏗️ Construindo o impossível... Depois de perguntar pro ChatGPT como faz
+# Construindo o impossível... Depois de perguntar pro ChatGPT como faz
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobernucio)
 [![Proton](https://img.shields.io/badge/Proton-7C5CFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:joaobernucio@proton.me)
