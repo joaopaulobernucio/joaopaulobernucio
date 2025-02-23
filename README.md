@@ -18,7 +18,7 @@ Valeu pela visita e bora transformar ideias em código!
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)        
-**Obs: "GNU + Linux"**
+**Obs: GNU + Linux**
 
 ### Linguagens de Marcação e de Estilo
 
