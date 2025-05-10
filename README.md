@@ -1,5 +1,3 @@
-### Construindo o impossível... Depois de perguntar pro ChatGPT como faz 🤪
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobernucio)
 [![Proton](https://img.shields.io/badge/Proton-7C5CFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:joaobernucio@proton.me)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/276796875800313857)
