@@ -25,8 +25,7 @@ Valeu pela visita e bora transformar ideias em código!
 [![My Skills](https://skillicons.dev/icons?i=dart,java,js,php,python)](https://skillicons.dev)
 
 
-[![Most Used Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&hide_title=false&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Most Used Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&hide_title=false&theme=vue-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![João Paulo Souza Bernucio's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&text_bold=false&show_icons=true&hide=contribs&hide_title=false&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![João Paulo Souza Bernucio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&text_bold=false&show_icons=true&hide=contribs&hide_title=false&theme=vue-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Most Used Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&hide=html,css,markdown&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Most Used Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&hide=html,css,markdown&theme=vue-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![João Paulo Souza Bernucio's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&text_bold=false&show_icons=true&hide=contribs&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![João Paulo Souza Bernucio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&text_bold=false&show_icons=true&hide=contribs&theme=vue-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
