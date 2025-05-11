@@ -11,10 +11,6 @@
 💻 Os badges interativos aqui no perfil mostram as linguagens e frameworks que venho explorando (e às vezes quebrando a cabeça). Fica à vontade para fuçar meus projetos, dar aquele feedback maroto ou, quem sabe, colaborar em alguma ideia maluca — sempre aberto a novos desafios e aprendizados!  
 
 Valeu pela visita e bora transformar ideias em código!
-          
-### Sistemas Operacionais
-
-[![My Skills](https://skillicons.dev/icons?i=arch,linux)](https://skillicons.dev)
 
 ### Linguagens de Marcação e de Estilo
 
