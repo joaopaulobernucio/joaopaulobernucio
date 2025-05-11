@@ -24,26 +24,22 @@ Valeu pela visita e bora transformar ideias em código!
 
 [![My Skills](https://skillicons.dev/icons?i=dart,java,js,php,python)](https://skillicons.dev)
 
-### Redes Sociais
-
-
-
 <div align="center">
   <picture>
     <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&theme=midnight-purple&locale=pt-br"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&theme=midnight-purple&locale=en&hide_border=true"
     media="(prefers-color-scheme: dark)" />
     <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&theme=buefy&locale=pt-br"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&theme=buefy&locale=en&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio"/>
   </picture>
   <picture>
     <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&show_icons=true&theme=midnight-purple&hide=contribs&count_private=true&locale=pt-br"
+    srcset="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&show_icons=true&theme=midnight-purple&hide=contribs&count_private=false&locale=en&hide_border=true"
     media="(prefers-color-scheme: dark)"/>
     <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&show_icons=true&theme=buefy&hide=contribs&count_private=true&locale=pt-br"
+    srcset="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&show_icons=true&theme=buefy&hide=contribs&count_private=false&locale=en&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio" />
   </picture>
