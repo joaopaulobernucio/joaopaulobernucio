@@ -25,22 +25,25 @@ Valeu pela visita e bora transformar ideias em código!
 [![My Skills](https://skillicons.dev/icons?i=dart,java,js,php,python)](https://skillicons.dev)
 
 <div align="center">
+  <!-- Most Used Languages -->
   <picture>
     <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&theme=midnight-purple&locale=en&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&locale=pt-br&border_color=BDBEC0&icon_color=FFCC20&title_color=FFF200&bg_color=0D1117&text_color=FFFFFF"
     media="(prefers-color-scheme: dark)" />
     <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&theme=buefy&locale=en&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&theme=buefy&locale=en&border_color=9745F5"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio"/>
   </picture>
+  
+  <!-- GitHub Stats -->
   <picture>
     <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&show_icons=true&theme=midnight-purple&hide=contribs&count_private=false&locale=en&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&locale=pt-br&show_icons=true&text_bold=false&custom_title=Estatísticas%20do%20GitHub&border_radius=6&border_color=BDBEC0&icon_color=FFCC20&title_color=FFF200&bg_color=0D1117&text_color=FFFFFF"
     media="(prefers-color-scheme: dark)"/>
     <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&show_icons=true&theme=buefy&hide=contribs&count_private=false&locale=en&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&show_icons=true&hide=contribs&count_private=false&locale=pt-br&border_color=9745F5"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio"/>
   </picture>
 </div>
