@@ -1,15 +1,15 @@
-<p>🌱 Estou no último semestre do curso de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnologia de Itapira "Ogari de Castro Pacheco". É um momento de transição, onde tudo que aprendi começa a ganhar forma. Estou buscando minha primeira oportunidade como desenvolvedor, pronto para transformar ideias em código e soluções que façam sentido para as pessoas. Meu caminho até aqui foi moldado por projetos práticos que simulavam desafios reais, o que me deu uma visão clara de como a tecnologia pode impactar o mundo.</p>
+<p>🌱 I'm in the final semester of the Multiplatform Software Development course at the Faculty of Technology of Itapira "Ogari de Castro Pacheco". It's a moment of transition, where everything I've learned is starting to take shape. I'm looking for my first opportunity as a developer, ready to turn ideas into code and solutions that make sense for people. My journey so far has been shaped by practical projects that simulated real-world challenges, giving me a clear vision of how technology can impact the world.</p>
 
-<p>🚀 Minha formação me trouxe uma base sólida em várias frentes. Aprendi a criar desde interfaces web até aplicativos mobile, passando por bancos de dados e até um toque de computação em nuvem. Trabalhei em projetos integradores a cada semestre, o que me ensinou a unir teoria e prática. Também mergulhei em conceitos como:</p>
+<p>🚀 My education has given me a solid foundation in various areas. I learned to create everything from web interfaces to mobile apps, including databases and even a bit of cloud computing. I worked on integrative projects each semester, which taught me how to combine theory and practice. I also delved into concepts such as:</p>
 <ul>
-<li>Metodologias ágeis, especialmente Scrum</li>
-<li>Testes automatizados para garantir qualidade</li>
-<li>Boas práticas de engenharia de software</li>
+  <li>Agile methodologies, especially Scrum</li>
+  <li>Automated testing to ensure quality</li>
+  <li>Best practices in software engineering</li>
 </ul>
 
-<p>💻 No dia a dia, eu me viro bem com código e ferramentas que me permitem criar coisas legais. Meu foco está em desenvolvimento web, com um carinho especial pelo front-end, mas também curto explorar o mundo mobile. Gosto de pensar em interfaces que sejam bonitas e fáceis de usar, sempre buscando o equilíbrio entre funcionalidade e estética. Minhas linguagens e frameworks favoritos são os que me deixam construir rápido e com qualidade, e estou sempre aprendendo algo novo para adicionar à caixa de ferramentas.</p>
+<p>💻 In my day-to-day, I'm comfortable with code and tools that let me build cool stuff. My focus is on web development, with a special affection for front-end, but I also enjoy exploring the mobile world. I like to think about interfaces that are beautiful and easy to use, always seeking a balance between functionality and aesthetics. My favorite languages and frameworks are those that let me build fast and with quality, and I'm always learning something new to add to my toolbox.</p>
 
-<p>🌟 Meu GitHub está começando a ganhar vida, e logo vou compartilhar projetos que mostram o que posso fazer. Quero trabalhar em iniciativas que conectem pessoas, simplifiquem tarefas ou resolvam problemas de forma inteligente. Seja em um site dinâmico ou um app mobile, meu objetivo é criar algo que tenha impacto. Estou animado para colaborar, aprender e crescer como desenvolvedor, trazendo minha energia para projetos que inspirem.</p>
+<p>🌟 My GitHub is starting to come to life, and soon I'll share projects that show what I can do. I want to work on initiatives that connect people, simplify tasks, or solve problems in smart ways. Whether it's a dynamic website or a mobile app, my goal is to create something impactful. I'm excited to collaborate, learn, and grow as a developer, bringing my energy to projects that inspire.</p>
 
 <div align="center">
   <h3>Frameworks</h3>
@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <h3>Linguagens de Programação</h3>
+  <h3>Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=markdown" height="35" alt="Markdown" />
@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <h3>Ferramentas de Desenvolvedor</h3>
+  <h3>Developer Tools</h3>
   <img src="https://skillicons.dev/icons?i=arch" height="35" alt="Arch Linux" /> 
   <img src="https://skillicons.dev/icons?i=bash" height="35" alt="Bash" />
   <img src="https://skillicons.dev/icons?i=discord" height="35" alt="Discord" />
@@ -45,57 +45,38 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="VS Code" />
 </div>
 
-📬 **Como me encontrar**  
-- E-mail: [insira seu e-mail] 📧  
-- LinkedIn: [insira seu LinkedIn] 💼
-
-Estou sempre aberto para conversar, trocar ideias ou colaborar em projetos. Me chama e vamos criar algo incrível! 😊
+<h5>I'm always open to chat, exchange ideas, or collaborate on projects. Reach out and let's build something amazing together! 😊</h5>
 
 <div align="center">
-  <!-- Estatísticas do GitHub com tema claro/escuro -->
+  <!-- GitHub Stats Card with light/dark theme -->
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&text_bold=false&show_icons=true&hide=contribs&theme=vue" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&text_bold=false&show_icons=true&hide=contribs&theme=vue-dark" 
-      media="(prefers-color-scheme: dark)" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio" />
+    srcset="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&text_bold=false&show_icons=true&theme=vue-dark"
+    media="(prefers-color-scheme: dark)"
+    />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&text_bold=false&show_icons=true&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img 
+      height="200"
+      src="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio"
+    />
   </picture>
 
-  <!-- Linguagens mais usadas com tema claro/escuro -->
+  <!-- Top Languages Card with light/dark theme -->
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=joaopaulobernucio&layout=compact&hide=html,css,markdown&card_width=310&theme=vue" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=joaopaulobernucio&layout=compact&hide=html,css,markdown&card_width=310&theme=vue-dark" 
-      media="(prefers-color-scheme: dark)" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopaulobernucio" />
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&langs_count=8&card_width=310&theme=vue-dark"
+    media="(prefers-color-scheme: dark)"
+    />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&langs_count=8&card_width=310&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio"
+    />
   </picture>
 </div>
-
-<!-- 
-<div align="center">
-  <picture>
-    <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-PauloBR&layout=compact&theme=midnight-purple&locale=pt-br"
-    media="(prefers-color-scheme: dark)" />
-    <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-PauloBR&layout=compact&theme=buefy&locale=pt-br"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-PauloBR"/>
-  </picture>
-  <picture>
-    <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Joao-PauloBR&show_icons=true&theme=midnight-purple&hide=contribs&count_private=true&locale=pt-br"
-    media="(prefers-color-scheme: dark)"/>
-    <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Joao-PauloBR&show_icons=true&theme=buefy&hide=contribs&count_private=true&locale=pt-br"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-PauloBR" />
-  </picture>
-</div>
-
-
-
