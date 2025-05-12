@@ -12,6 +12,19 @@
 <p>🌟 My GitHub is starting to come to life, and soon I'll share projects that show what I can do. I want to work on initiatives that connect people, simplify tasks, or solve problems in smart ways. Whether it's a dynamic website or a mobile app, my goal is to create something impactful. I'm excited to collaborate, learn, and grow as a developer, bringing my energy to projects that inspire.</p>
 
 <div align="center">
+  <h3>Developer Tools</h3>
+  <img src="https://skillicons.dev/icons?i=arch" height="35" alt="Arch Linux" /> 
+  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="35" alt="GitLab" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="35" alt="Gradle" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="VS Code" />
+</div>
+
+<div align="center">
   <h3>Frameworks</h3>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=flutter" height="35" alt="Flutter" />
@@ -20,29 +33,18 @@
 </div>
 
 <div align="center">
-  <h3>Programming Languages</h3>
+  <h3>Markup Languages</h3>
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=markdown" height="35" alt="Markdown" />
+</div>
+
+<div align="center">
+  <h3>Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="Java" />
   <img src="https://skillicons.dev/icons?i=php" height="35" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python" />
-</div>
-
-<div align="center">
-  <h3>Developer Tools</h3>
-  <img src="https://skillicons.dev/icons?i=arch" height="35" alt="Arch Linux" /> 
-  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="Bash" />
-  <img src="https://skillicons.dev/icons?i=discord" height="35" alt="Discord" />
-  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="35" alt="GitLab" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="35" alt="Gradle" />
-  <img src="https://skillicons.dev/icons?i=npm" height="35" alt="npm" /> 
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="VS Code" />
 </div>
 
 <h5>I'm always open to chat, exchange ideas, or collaborate on projects. Reach out and let's build something amazing together! 😊</h5>
