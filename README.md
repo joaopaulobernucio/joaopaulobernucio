@@ -53,32 +53,32 @@
   <!-- GitHub Stats Card with light/dark theme -->
   <picture>
     <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&text_bold=false&show_icons=true&theme=vue-dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=joaopaulo-bernucio&text_bold=false&show_icons=true&theme=vue-dark"
     media="(prefers-color-scheme: dark)"
     />
     <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio&text_bold=false&show_icons=true&theme=vue"
+    srcset="https://github-readme-stats.vercel.app/api?username=joaopaulo-bernucio&text_bold=false&show_icons=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img 
       height="200"
-      src="https://github-readme-stats.vercel.app/api?username=joaopaulobernucio"
+      src="https://github-readme-stats.vercel.app/api?username=joaopaulo-bernucio"
     />
   </picture>
 
   <!-- Top Languages Card with light/dark theme -->
   <picture>
     <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&langs_count=8&card_width=310&theme=vue-dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo-bernucio&layout=compact&langs_count=8&card_width=310&theme=vue-dark"
     media="(prefers-color-scheme: dark)"
     />
     <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio&layout=compact&langs_count=8&card_width=310&theme=vue"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo-bernucio&layout=compact&langs_count=8&card_width=310&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
       height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulobernucio"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo-bernucio"
     />
   </picture>
 </div>
