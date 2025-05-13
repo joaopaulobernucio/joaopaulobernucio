@@ -1,15 +1,15 @@
-<p>🌱 I'm in the final semester of the <a href="https://fatecitapira.cps.sp.gov.br/desenvolvimento-de-software-multiplataforma/"><strong>Multiplatform Software Development</strong></a> course at the <a href="https://www.linkedin.com/school/faculdade-estadual-de-tecnologia-de-itapira-ogari-de-castro-pacheco/"><strong>Faculty of Technology of Itapira "Ogari de Castro Pacheco"</strong></a>. It's a moment of transition, where everything I've learned is starting to take shape. I'm looking for my first opportunity as a developer, ready to turn ideas into code and solutions that make sense for people. My journey so far has been shaped by practical projects that simulated real-world challenges, giving me a clear vision of how technology can impact the world.</p>
+<p>🌱 I’m a final-semester student in <a href="https://fatecitapira.cps.sp.gov.br/desenvolvimento-de-software-multiplatforma/"><strong>Multiplatform Software Development</strong></a> at <a href="https://www.linkedin.com/school/faculdade-estadual-de-tecnologia-de-itapira-ogari-de-castro-pacheco/"><strong>FATEC Itapira "Ogari de Castro Pacheco"</strong></a>, eager to launch my career as a developer. Through hands-on projects simulating real-world challenges, I’ve honed my ability to transform ideas into functional, user-focused solutions. I’m seeking my first opportunity to contribute code, creativity, and collaboration to innovative teams.</p>
 
-<p>🚀 My education has given me a solid foundation in various areas. I learned to create everything from web interfaces to mobile apps, including databases and even a bit of cloud computing. I worked on integrative projects each semester, which taught me how to combine theory and practice. I also delved into concepts such as:</p>
+<p>🚀 My education has equipped me with a versatile skill set across <strong>web development</strong> (with a passion for <strong>front-end</strong>), mobile apps, databases, and cloud computing basics. Semester-long integrative projects taught me to blend theory with practice, mastering concepts like:</p>
 <ul>
-  <li>Agile methodologies, especially Scrum</li>
-  <li>Automated testing to ensure quality</li>
-  <li>Best practices in software engineering</li>
+  <li>Agile methodologies (Scrum)</li>
+  <li>Automated testing for robust code</li>
+  <li>Software engineering best practices</li>
 </ul>
 
-<p>💻 In my day-to-day, I'm comfortable with code and tools that let me build cool stuff. <strong>My focus is</strong> on <strong>web development</strong>, with a special affection for <strong>front-end</strong>, but I also enjoy exploring the <strong>mobile</strong> world. I like to think about interfaces that are beautiful and easy to use, always seeking a balance between functionality and aesthetics. My favorite languages and frameworks are those that let me build fast and with quality, and I'm always learning something new to add to my toolbox.</p>
+<p>💻 I thrive on crafting intuitive, visually appealing interfaces that balance aesthetics and functionality. My go-to tools include modern languages and frameworks that enable rapid, high-quality development. I’m always expanding my skill set, exploring new technologies to build dynamic websites, mobile apps, and more. Check out my pinned repositories to see my latest work!</p>
 
-<p>🌟 My GitHub is starting to come to life, and soon I'll share projects that show what I can do. I want to work on initiatives that connect people, simplify tasks, or solve problems in smart ways. Whether it's a dynamic website or a mobile app, my goal is to create something impactful. I'm excited to collaborate, learn, and grow as a developer, bringing my energy to projects that inspire.</p>
+<p>🌟 I’m excited to collaborate on projects that solve problems, connect people, or simplify lives. My GitHub is my portfolio, showcasing my growth as a developer. Let’s build something impactful together—connect with me to share ideas or explore opportunities!</p>
 
 <div align="center">
   <h3>Developer Tools</h3>
