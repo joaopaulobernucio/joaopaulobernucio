@@ -45,9 +45,9 @@
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="Java" />
   <img src="https://skillicons.dev/icons?i=php" height="35" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python" />
-</div>
 
-<h5>I'm always open to chat, exchange ideas, or collaborate on projects. Reach out and let's build something amazing together! 😊</h5>
+<h5>Collaboration is what drives great ideas. Reach out and let’s create something extraordinary! 😊</h5>
+</div>
 
 <div align="center">
   <!-- GitHub Stats Card with light/dark theme -->
