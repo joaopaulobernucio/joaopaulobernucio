@@ -19,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="Figma" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="35" alt="GitLab" />
   <img src="https://skillicons.dev/icons?i=gradle" height="35" alt="Gradle" />
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="VS Code" />
 </div>
